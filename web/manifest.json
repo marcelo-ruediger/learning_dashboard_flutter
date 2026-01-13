@@ -1,6 +1,6 @@
 {
-    "name": "learning_dashboard_chunkx",
-    "short_name": "learning_dashboard_chunkx",
+    "name": "learning_dashboard_challenge",
+    "short_name": "learning_dashboard_challenge",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
