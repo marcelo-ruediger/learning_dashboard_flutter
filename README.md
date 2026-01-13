@@ -22,7 +22,6 @@ assets/
 
 ## Ressourcen:
 - [Flutter Dokumentation](https://docs.flutter.dev/)
-- [Material Design Icons](https://fonts.google.com/icons)
 - [Assets von icon-icons.com](https://icon-icons.com/)
 
 
